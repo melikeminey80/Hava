@@ -7,4 +7,3 @@ local.properties
 *.iml
 .externalNativeBuild/
 .cxx/
-.DS_Store
